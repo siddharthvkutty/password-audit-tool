@@ -149,17 +149,3 @@ Instead of brute-force assumptions, the tool estimates how attackers actually op
 Most password checkers rely on simplistic rules. This tool aims to model **real attacker behavior**, making its analysis more practical and educational.
 
 ---
-
-## 📜 License
-
-MIT (or choose your preferred license)
-
----
-
-## 👤 Author
-
-Siddharth
-Computer Science Student
-
----
-
